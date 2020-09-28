@@ -373,9 +373,9 @@ form{
     padding:20px;
 }
 
-aside{
+/*aside{
     margin-left:75px;
-}
+}*/
 
 aside .part, aside .part2,aside .part3,aside .part4,aside .part5{
     display:flex;
