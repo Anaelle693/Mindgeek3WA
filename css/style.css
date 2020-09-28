@@ -443,6 +443,7 @@ aside .part, aside .part2,aside .part3,aside .part4,aside .part5{
     display:flex;
     flex-flow:column nowrap;
     align-items:center;
+    justify-content:center;
 }
 
 aside .part5 .art1,aside .part5 .art2,aside .part5 .art3{
